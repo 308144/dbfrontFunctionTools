@@ -24,8 +24,7 @@ import { sleep } from 'tools';
 ## 🤝 参与共建
 
 ```bash
-$ git clone git@git.100tal.com:panda-h5/tools.git
-$ cd tools
+$ git clone git@github.com:308144/dbfrontFunctionTools.git
 $ npm i
 $ npm start
 ```
